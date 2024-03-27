@@ -18,7 +18,7 @@
             <tr>
                 <th>#</th>
                 <th>Title</th>
-                <th>Price</th>
+                <th>Price</th>  
                 <th>Product Code</th>
                 <th>Description</th>
                 <th>Action</th>
